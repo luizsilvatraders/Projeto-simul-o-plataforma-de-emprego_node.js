@@ -1,0 +1,35 @@
+{
+  "name": "job_finder",
+  "version": "1.0.0",
+  "description": "Este sistema é um portal para programadores encontrarem vagas de trabalho",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "keywords": [
+    "dev",
+    "jobs",
+    "dev",
+    "oportunity"
+  ],
+  "author": "Matheus <matheusbudkewiczbattisti@gmail.com> (http://www.horadecodar.com.br/)",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "express-handlebars": "^3.1.0",
+    "sequelize": "^5.22.5",
+    "sqlite3": "^5.0.11"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luizsilvatraders/Projeto-simul-o-plataforma-de-emprego_node.js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/luizsilvatraders/Projeto-simul-o-plataforma-de-emprego_node.js/issues"
+  },
+  "homepage": "https://github.com/luizsilvatraders/Projeto-simul-o-plataforma-de-emprego_node.js#readme"
+}
